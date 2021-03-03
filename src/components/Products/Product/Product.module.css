@@ -1,0 +1,10 @@
+.item {
+  font-size: 30px;
+  list-style: none;
+}
+.container {
+  width: 31%;
+  background-color: rgb(196, 215, 226);
+  border: solid 1px black;
+  padding: 5px;
+}
